@@ -24,6 +24,7 @@ public class Main {
         borrower.displayBorrowedBooks();
 
         library.displayLibraryBooks();
+        library.displayLibraryBooks();
     }
 
     public static void main(String[] args) {
